@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Basic Javascript</title>
+    <script>
+        // this is inline javascript
+        document.write("This is in line script<br>");
+
+        // this is html in javascript
+        document.write("<b>This is html in javascript</b> <br>");
+
+        // this is single line comment
+        // document.write("Single line  comment");
+
+        // this is double line comment
+        /* document.write("double line comment");
+        document.write("<b>double line comment</b>");*/
+    </script>
+
+    <script src="external.js"> </script>
+</head>
+<body>
+    
+</body>
+</html>
