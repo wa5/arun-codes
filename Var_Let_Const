@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+       
+       // let concept
+       let gap ="hello";
+           gap ="arun ";
+      // var z='iiht';
+       z=45.8;
+       document.write(gap);
+       document.write(z);
+      // document.write("gap");
+
+
+   </script>
+
+    <script>
+
+        // const concept
+        const a ="hello ";     
+        b=45.8;
+        document.write(a);
+        document.write(b);
+       // document.write("gap");
+    </script>
+
+
+    <script>
+
+        // Var concept
+        var arun ="hello";
+        var arun ="arun ";
+       // var z='iiht';
+        h=45.8;
+        document.write(arun);
+        document.write(h);
+       // document.write("gap");
+ 
+ 
+    </script>
+    
+
+
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
